@@ -1,1 +1,1 @@
-# language-identification-translator
+# Titanic Feature Engineering Seminar
